@@ -12,7 +12,7 @@ GitHub Pages Deployment Workflow
  - The GitHub Actions workflow triggers on any push to the `main` branch.
  - It checks if `index.html` has been modified.
  - If changes are detected, it deploys the file to GitHub Pages.
- - The deployed site is accessible at URL:- https://mahendra-off.github.io/gh-deployment-workflow/.
+ - The deployed site is accessible at project URL:- https://mahendra-off.github.io/gh-deployment-workflow/.
 
  ## Prerequisites
 
